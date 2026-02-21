@@ -174,7 +174,13 @@ AI-Assisted-Banking-Analytics-Dashboard/
 ```
 
 ---
+## 📸 Dashboard Preview
 
+<img src="screenshots/2_Customer_and_Account_Insights.png" width="800"/>
+
+<img src="screenshots/3_Transaction_and_Loan_Insights.png" width="800"/>
+
+---
 ## 🎯 Key Learnings
 
 - Designing relational banking databases
